@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 //eslint-disable-next-line no-unused-vars
 import { motion, AnimatePresence } from 'framer-motion';
-import treatmentData from '../data/treatmentAndCare.json';
+import treatmentData from '../data/treatmentandcare.json';
 import { useCart } from '@/context/CartContext';
 
 const containerVariants = {
