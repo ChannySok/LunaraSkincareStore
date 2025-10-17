@@ -1,0 +1,378 @@
+{
+  "category": "Skincare Routine",
+  "description": "Build your perfect daily regimen with our curated collection of skincare essentials for healthy, glowing skin.",
+  "routineSteps": {
+    "morning": [
+      {
+        "step": 1,
+        "name": "Cleanse",
+        "description": "Start your day with a gentle cleanser to remove impurities and prep your skin.",
+        "icon": "🧼",
+        "tips": ["Use lukewarm water", "Massage gently in circular motions", "Pat dry, don't rub"]
+      },
+      {
+        "step": 2,
+        "name": "Tone",
+        "description": "Balance your skin's pH and prepare it for better product absorption.",
+        "icon": "💧",
+        "tips": ["Apply with cotton pad or hands", "Focus on T-zone for oily skin", "Avoid alcohol-based toners"]
+      },
+      {
+        "step": 3,
+        "name": "Treat",
+        "description": "Apply serums and treatments to target specific skin concerns.",
+        "icon": "✨",
+        "tips": ["Apply thinnest to thickest consistency", "Wait 30 seconds between layers", "Use vitamin C in AM"]
+      },
+      {
+        "step": 4,
+        "name": "Moisturize",
+        "description": "Hydrate and protect your skin barrier throughout the day.",
+        "icon": "🌿",
+        "tips": ["Don't forget your neck", "Use gel-based for oily skin", "Cream-based for dry skin"]
+      },
+      {
+        "step": 5,
+        "name": "Protect",
+        "description": "Apply sunscreen as the final step to protect against UV damage.",
+        "icon": "☀️",
+        "tips": ["Use SPF 30+ daily", "Reapply every 2 hours", "Don't skip on cloudy days"]
+      }
+    ],
+    "evening": [
+      {
+        "step": 1,
+        "name": "First Cleanse",
+        "description": "Remove makeup, sunscreen, and surface impurities with an oil-based cleanser.",
+        "icon": "🛢️",
+        "tips": ["Massage for 60 seconds", "Emulsify with water", "Rinse thoroughly"]
+      },
+      {
+        "step": 2,
+        "name": "Second Cleanse",
+        "description": "Deep clean pores with a water-based cleanser suited to your skin type.",
+        "icon": "🧴",
+        "tips": ["Double cleansing is key", "Use gentle formulas", "Avoid over-cleansing"]
+      },
+      {
+        "step": 3,
+        "name": "Exfoliate",
+        "description": "Use chemical exfoliants 2-3 times weekly to remove dead skin cells.",
+        "icon": "🌟",
+        "tips": ["Start with 1-2 times weekly", "Avoid physical scrubs on sensitive skin", "Don't over-exfoliate"]
+      },
+      {
+        "step": 4,
+        "name": "Treat",
+        "description": "Apply targeted treatments like retinol, acids, or specialized serums.",
+        "icon": "🔬",
+        "tips": ["Use retinol in PM", "Spot treat acne areas", "Layer hydrating serums after actives"]
+      },
+      {
+        "step": 5,
+        "name": "Moisturize",
+        "description": "Lock in moisture and support skin repair overnight with a nourishing cream.",
+        "icon": "🌙",
+        "tips": ["Use thicker creams at night", "Include ceramides for barrier repair", "Don't forget eye cream"]
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Gentle Foaming Cleanser",
+      "price": "$24.00",
+      "originalPrice": "$30.00",
+      "image": "https://sokoskins.shop/cdn/shop/files/41COwvqeqPL._SL1000_-1_1000x.jpg?v=1725967315",
+      "category": "Cleanser",
+      "step": "Cleanse",
+      "time": "Both",
+      "description": "Gentle foaming cleanser that effectively removes impurities without stripping natural oils.",
+      "ingredients": ["Amino Acids", "Green Tea Extract", "Hyaluronic Acid", "Chamomile"],
+      "benefits": [
+        "Maintains skin pH balance",
+        "Non-drying formula",
+        "Suitable for sensitive skin",
+        "Creates rich, gentle foam"
+      ],
+      "skinType": ["All Skin Types", "Sensitive"],
+      "size": "150ml",
+      "rating": 4.7,
+      "reviews": 234
+    },
+    {
+      "id": 2,
+      "name": "Hydrating Toner",
+      "price": "$28.00",
+      "originalPrice": "$35.00",
+      "image": "https://www.vivamaia.com/cdn/shop/files/hydrating-toner_ingredient-flatlay_3960x3960_42981b14-ac4e-47d7-8707-0a5391b88ee6.webp?v=1749987668&width=3960",
+      "category": "Toner",
+      "step": "Tone",
+      "time": "Both",
+      "description": "Alcohol-free hydrating toner that preps skin for better product absorption.",
+      "ingredients": ["Rose Water", "Hyaluronic Acid", "Centella Asiatica", "Niacinamide"],
+      "benefits": [
+        "Instant hydration boost",
+        "Calms redness and irritation",
+        "Improves skin texture",
+        "Prepares skin for serums"
+      ],
+      "skinType": ["All Skin Types", "Dry", "Sensitive"],
+      "size": "200ml",
+      "rating": 4.8,
+      "reviews": 189
+    },
+    {
+      "id": 3,
+      "name": "Vitamin C Brightening Serum",
+      "price": "$45.00",
+      "originalPrice": "$55.00",
+      "image": "https://www.balanceactiveformula.com/cdn/shop/files/B00X5M8ZRK.PT05.png?v=1743689158&width=1946",
+      "category": "Serum",
+      "step": "Treat",
+      "time": "AM",
+      "description": "Potent vitamin C serum for brightening and protecting against environmental damage.",
+      "ingredients": ["L-Ascorbic Acid", "Vitamin E", "Ferulic Acid", "Hyaluronic Acid"],
+      "benefits": [
+        "Brightens complexion",
+        "Fades dark spots",
+        "Antioxidant protection",
+        "Boosts collagen production"
+      ],
+      "skinType": ["All Skin Types", "Dull", "Aging"],
+      "size": "30ml",
+      "rating": 4.9,
+      "reviews": 312
+    },
+    {
+      "id": 4,
+      "name": "Hyaluronic Acid Moisturizer",
+      "price": "$32.00",
+      "originalPrice": "$40.00",
+      "image": "https://www.drsheths.com/cdn/shop/products/Haldi-_-Hyaluronic-Acid-Oil-Free-Moisturizer_f7bd0682-e00d-41ff-ac0c-ccc0f24d61d1.jpg?v=1665755134",
+      "category": "Moisturizer",
+      "step": "Moisturize",
+      "time": "Both",
+      "description": "Lightweight gel-cream with multiple forms of hyaluronic acid for all-day hydration.",
+      "ingredients": ["5 Hyaluronic Acids", "Ceramides", "Squalane", "Peptides"],
+      "benefits": [
+        "72-hour hydration",
+        "Strengthens skin barrier",
+        "Non-comedogenic",
+        "Suitable for all skin types"
+      ],
+      "skinType": ["All Skin Types"],
+      "size": "50ml",
+      "rating": 4.6,
+      "reviews": 278
+    },
+    {
+      "id": 5,
+      "name": "Mineral Sunscreen SPF 50",
+      "price": "$38.00",
+      "originalPrice": "$45.00",
+      "image": "https://images-us.eucerin.com/~/media/eucerin%20relaunch%20media/media-center-items/d/6/1/af7a0a67b69d4ad7aac4770ba027d7f0-screen.jpg?db=web&hash=4f353a43d3cb2b99c70a803f2d0761cd",
+      "category": "Sunscreen",
+      "step": "Protect",
+      "time": "AM",
+      "description": "Sheer mineral sunscreen that provides broad-spectrum protection without white cast.",
+      "ingredients": ["Zinc Oxide", "Titanium Dioxide", "Niacinamide", "Antioxidant Blend"],
+      "benefits": [
+        "Broad-spectrum protection",
+        "No white cast",
+        "Water-resistant",
+        "Suitable for sensitive skin"
+      ],
+      "skinType": ["All Skin Types", "Sensitive"],
+      "size": "50ml",
+      "rating": 4.7,
+      "reviews": 195
+    },
+    {
+      "id": 6,
+      "name": "Retinol Night Serum",
+      "price": "$52.00",
+      "originalPrice": "$65.00",
+      "image": "https://www.boozyshop.nl/cdn/shop/files/revuele-retinol-night-serum-63615258788223.jpg",
+      "category": "Serum",
+      "step": "Treat",
+      "time": "PM",
+      "description": "Encapsulated retinol serum for overnight renewal and anti-aging benefits.",
+      "ingredients": ["Encapsulated Retinol", "Bakuchiol", "Niacinamide", "Ceramides"],
+      "benefits": [
+        "Reduces fine lines",
+        "Improves skin texture",
+        "Minimizes pores",
+        "Gentle on sensitive skin"
+      ],
+      "skinType": ["All Skin Types", "Aging", "Acne-Prone"],
+      "size": "30ml",
+      "rating": 4.8,
+      "reviews": 167
+    },
+    {
+      "id": 7,
+      "name": "AHA/BHA Exfoliating Toner",
+      "price": "$35.00",
+      "originalPrice": "$42.00",
+      "image": "https://beautycarebag.com/cdn/shop/files/IDrQicFoFFZl4EoBFeICPRCqUvobroO4vohN9boL.jpg?v=1746794815",
+      "category": "Toner",
+      "step": "Exfoliate",
+      "time": "PM",
+      "description": "Gentle chemical exfoliant with AHA and BHA to unclog pores and smooth texture.",
+      "ingredients": ["Glycolic Acid", "Salicylic Acid", "Green Tea", "Aloe Vera"],
+      "benefits": [
+        "Unclogs pores",
+        "Smooths skin texture",
+        "Reduces blackheads",
+        "Brightens complexion"
+      ],
+      "skinType": ["Oily", "Combination", "Acne-Prone"],
+      "size": "150ml",
+      "rating": 4.5,
+      "reviews": 223
+    },
+    {
+      "id": 8,
+      "name": "Overnight Repair Cream",
+      "price": "$48.00",
+      "originalPrice": "$58.00",
+      "image": "https://biodroga.com/cdn/shop/files/BI70140_BD_BI_Repair___Protect_Overnight_Repair_Cream_BEH_Shop_01.jpg?v=1725459973",
+      "category": "Moisturizer",
+      "step": "Moisturize",
+      "time": "PM",
+      "description": "Rich overnight cream that works while you sleep to repair and rejuvenate skin.",
+      "ingredients": ["Ceramides", "Peptides", "Squalane", "Shea Butter"],
+      "benefits": [
+        "Overnight repair",
+        "Intense hydration",
+        "Supports skin barrier",
+        "Wake up to glowing skin"
+      ],
+      "skinType": ["Dry", "Very Dry", "Mature"],
+      "size": "50ml",
+      "rating": 4.9,
+      "reviews": 189
+    },
+    {
+      "id": 9,
+      "name": "Eye Repair Cream",
+      "price": "$42.00",
+      "originalPrice": "$50.00",
+      "image": "https://static.beautytocare.com/cdn-cgi/image/f=auto/media/catalog/product//c/e/cerave-eye-repair-cream-14ml_1_2.jpg",
+      "category": "Eye Care",
+      "step": "Moisturize",
+      "time": "Both",
+      "description": "Targeted eye treatment to reduce puffiness, dark circles, and fine lines.",
+      "ingredients": ["Caffeine", "Vitamin K", "Hyaluronic Acid", "Peptides"],
+      "benefits": [
+        "Reduces puffiness",
+        "Diminishes dark circles",
+        "Hydrates delicate skin",
+        "Smooths fine lines"
+      ],
+      "skinType": ["All Skin Types"],
+      "size": "15ml",
+      "rating": 4.6,
+      "reviews": 156
+    },
+    {
+      "id": 10,
+      "name": "Hydrating Face Mask",
+      "price": "$28.00",
+      "originalPrice": "$35.00",
+      "image": "https://fclskincare.com/cdn/shop/files/Hydrating-Face-Mask.webp?v=1757671815",
+      "category": "Mask",
+      "step": "Treat",
+      "time": "PM",
+      "description": "Weekly hydrating mask to boost moisture and revive dull, tired skin.",
+      "ingredients": ["Hyaluronic Acid", "Squalane", "Aloe Vera", "Ceramides"],
+      "benefits": [
+        "Instant hydration boost",
+        "Soothes irritated skin",
+        "Improves skin elasticity",
+        "Use 1-2 times weekly"
+      ],
+      "skinType": ["All Skin Types", "Dry", "Dehydrated"],
+      "size": "75ml",
+      "rating": 4.7,
+      "reviews": 134
+    },
+    {
+      "id": 11,
+      "name": "Oil Cleanser",
+      "price": "$32.00",
+      "originalPrice": "$38.00",
+      "image": "https://www.moona.store/cdn/shop/products/Round_Lab-1025_Dokdo-Cleansing_Oil_200ml-Skincare-Moona_Store-NZ-AKL-9_1200x630.jpg?v=1646300016",
+      "category": "Cleanser",
+      "step": "First Cleanse",
+      "time": "PM",
+      "description": "Gentle oil cleanser that effectively dissolves makeup and sunscreen.",
+      "ingredients": ["Jojoba Oil", "Squalane", "Vitamin E", "Chamomile"],
+      "benefits": [
+        "Dissolves waterproof makeup",
+        "Doesn't strip natural oils",
+        "Suitable for all skin types",
+        "Emulsifies easily with water"
+      ],
+      "skinType": ["All Skin Types"],
+      "size": "200ml",
+      "rating": 4.8,
+      "reviews": 198
+    },
+    {
+      "id": 12,
+      "name": "Niacinamide Serum",
+      "price": "$36.00",
+      "originalPrice": "$42.00",
+      "image": "https://i0.wp.com/simplyglow.lk/wp-content/uploads/2025/03/1743444864_IMG_0370.jpeg?fit=998%2C998&ssl=1",
+      "category": "Serum",
+      "step": "Treat",
+      "time": "Both",
+      "description": "10% niacinamide serum to control oil, minimize pores, and improve skin texture.",
+      "ingredients": ["10% Niacinamide", "Zinc", "Hyaluronic Acid", "Green Tea"],
+      "benefits": [
+        "Controls sebum production",
+        "Minimizes pore appearance",
+        "Reduces redness",
+        "Improves skin barrier"
+      ],
+      "skinType": ["Oily", "Combination", "Acne-Prone"],
+      "size": "30ml",
+      "rating": 4.7,
+      "reviews": 267
+    }
+  ],
+  "skinTypeGuides": [
+    {
+      "type": "Oily Skin",
+      "description": "Focus on oil control and lightweight hydration",
+      "routine": ["Gel cleanser", "BHA toner", "Niacinamide serum", "Oil-free moisturizer", "Matte sunscreen"],
+      "icon": "🛢️"
+    },
+    {
+      "type": "Dry Skin",
+      "description": "Prioritize intense hydration and barrier repair",
+      "routine": ["Cream cleanser", "Hydrating toner", "Hyaluronic acid", "Rich cream", "Hydrating sunscreen"],
+      "icon": "🏜️"
+    },
+    {
+      "type": "Combination Skin",
+      "description": "Balance different needs for T-zone and cheeks",
+      "routine": ["Gentle cleanser", "Balancing toner", "Targeted serums", "Lightweight moisturizer", "Universal sunscreen"],
+      "icon": "⚖️"
+    },
+    {
+      "type": "Sensitive Skin",
+      "description": "Use gentle, fragrance-free products with calming ingredients",
+      "routine": ["Mild cleanser", "Soothing toner", "Barrier repair serum", "Calming moisturizer", "Mineral sunscreen"],
+      "icon": "🌸"
+    },
+    {
+      "type": "Acne-Prone Skin",
+      "description": "Focus on gentle cleansing and targeted treatments",
+      "routine": ["Salicylic acid cleanser", "BHA toner", "Niacinamide serum", "Oil-free moisturizer", "Non-comedogenic SPF"],
+      "icon": "🎯"
+    }
+  ]
+}

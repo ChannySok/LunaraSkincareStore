@@ -1,0 +1,200 @@
+{
+  "category": "Treatment & Care",
+  "description": "Professional skincare treatments and specialized care solutions for various skin concerns. Our expert formulations target specific issues while nourishing and protecting your skin.",
+  "products": [
+    {
+      "id": 1,
+      "name": "Acne Control Solution",
+      "price": "$45.00",
+      "originalPrice": "$55.00",
+      "image": "https://www.simpleskincare.in/cdn/shop/files/Anti_Acne_2_step_skincare_combo.png?v=1721371365&width=1500",
+      "category": "Acne Treatment",
+      "description": "Powerful yet gentle formula to combat acne breakouts and prevent future ones.",
+      "ingredients": ["Salicylic Acid", "Tea Tree Oil", "Niacinamide", "Zinc"],
+      "benefits": [
+        "Reduces inflammation and redness",
+        "Unclogs pores",
+        "Controls excess oil",
+        "Prevents future breakouts"
+      ],
+      "skinType": ["Oily", "Combination", "Acne-Prone"],
+      "size": "30ml",
+      "rating": 4.8,
+      "reviews": 124
+    },
+    {
+      "id": 2,
+      "name": "Anti-Aging Serum",
+      "price": "$68.00",
+      "originalPrice": "$78.00",
+      "image": "https://pinksboutique.com/cdn/shop/products/AntiAgeSerum_1_1024x1024.png?v=1673542540",
+      "category": "Anti-Aging",
+      "description": "Advanced serum targeting fine lines, wrinkles, and loss of elasticity.",
+      "ingredients": ["Retinol", "Vitamin C", "Hyaluronic Acid", "Peptides"],
+      "benefits": [
+        "Reduces appearance of wrinkles",
+        "Boosts collagen production",
+        "Improves skin elasticity",
+        "Brightens complexion"
+      ],
+      "skinType": ["All Skin Types"],
+      "size": "30ml",
+      "rating": 4.9,
+      "reviews": 89
+    },
+    {
+      "id": 3,
+      "name": "Brightening Treatment",
+      "price": "$52.00",
+      "originalPrice": "$62.00",
+      "image": "https://www.skinmedica.com/dw/image/v2/BBTL_PRD/on/demandware.static/-/Sites-alg-us-master-catalog/default/dw62745b86/skm-high-res/20086722-EC-Adv-Brightening-Lifestyle-1x1.jpg?sw=1074&sh=1428&sm=fit&q=65",
+      "category": "Brightening",
+      "description": "Targets dark spots and uneven skin tone for a radiant, luminous complexion.",
+      "ingredients": ["Vitamin C", "Niacinamide", "Tranexamic Acid", "Licorice Root"],
+      "benefits": [
+        "Fades dark spots and hyperpigmentation",
+        "Evens skin tone",
+        "Provides antioxidant protection",
+        "Enhances natural radiance"
+      ],
+      "skinType": ["All Skin Types"],
+      "size": "30ml",
+      "rating": 4.7,
+      "reviews": 156
+    },
+    {
+      "id": 4,
+      "name": "Sensitive Skin Soother",
+      "price": "$38.00",
+      "originalPrice": "$48.00",
+      "image": "https://ssunsu.in/cdn/shop/files/Sensitive_Skin_Soother_679530f1-152b-40b4-b2aa-ddc97d8b50c8.jpg?v=1748584607",
+      "category": "Sensitive Skin",
+      "description": "Gentle, calming treatment for reactive and sensitive skin types.",
+      "ingredients": ["Centella Asiatica", "Oat Extract", "Ceramides", "Panthenol"],
+      "benefits": [
+        "Reduces redness and irritation",
+        "Strengthens skin barrier",
+        "Provides instant relief",
+        "Calms inflammation"
+      ],
+      "skinType": ["Sensitive", "Dry", "Reactive"],
+      "size": "50ml",
+      "rating": 4.6,
+      "reviews": 203
+    },
+    {
+      "id": 5,
+      "name": "Hydration Boost Cream",
+      "price": "$42.00",
+      "originalPrice": "$52.00",
+      "image": "https://images.ctfassets.net/bcjr30vxh6td/2KM99kQrLXuKxzW9avjYiy/cf83858d0a9cdc989fde732c1a6d42dd/6806486_Carousel_1.webp?fm=webp&w=3840",
+      "category": "Hydration",
+      "description": "Intense hydration treatment for severely dry and dehydrated skin.",
+      "ingredients": ["Hyaluronic Acid", "Squalane", "Ceramides", "Shea Butter"],
+      "benefits": [
+        "Provides 72-hour hydration",
+        "Restores skin barrier",
+        "Prevents moisture loss",
+        "Soothes dry patches"
+      ],
+      "skinType": ["Dry", "Very Dry", "Dehydrated"],
+      "size": "50ml",
+      "rating": 4.8,
+      "reviews": 178
+    },
+    {
+      "id": 6,
+      "name": "Pore Refining Treatment",
+      "price": "$48.00",
+      "originalPrice": "$58.00",
+      "image": "https://cdn.shopify.com/s/files/1/0723/3060/8928/files/Pore_Refining_Treatment_sku21106__NL_texture.jpg?v=1744055621",
+      "category": "Pore Care",
+      "description": "Minimizes appearance of pores and controls excess sebum production.",
+      "ingredients": ["Niacinamide", "Salicylic Acid", "Clay Extract", "Willow Bark"],
+      "benefits": [
+        "Minimizes pore appearance",
+        "Controls oil production",
+        "Smooths skin texture",
+        "Prevents blackheads"
+      ],
+      "skinType": ["Oily", "Combination", "Large Pores"],
+      "size": "30ml",
+      "rating": 4.5,
+      "reviews": 142
+    },
+    {
+      "id": 7,
+      "name": "Overnight Repair Mask",
+      "price": "$55.00",
+      "originalPrice": "$65.00",
+      "image": "https://www.mybeautybar.co.uk/cdn/shop/products/Overnight-Repair-Cream-Mask_100ML-_2_800x.jpg?v=1644780964",
+      "category": "Overnight Treatment",
+      "description": "Intensive overnight treatment that works while you sleep to repair and rejuvenate.",
+      "ingredients": ["Bakuchiol", "Peptides", "Ceramides", "Evening Primrose"],
+      "benefits": [
+        "Repairs skin overnight",
+        "Boosts natural regeneration",
+        "Reduces fine lines",
+        "Improves skin texture"
+      ],
+      "skinType": ["All Skin Types"],
+      "size": "50ml",
+      "rating": 4.9,
+      "reviews": 167
+    },
+    {
+      "id": 8,
+      "name": "Rosacea Relief Serum",
+      "price": "$58.00",
+      "originalPrice": "$68.00",
+      "image": "https://ava-laboratorium.pl/wp-content/uploads/2017/10/Rosacea_Serum_Kompo_PL.jpg",
+      "category": "Specialized Care",
+      "description": "Specialized treatment for rosacea-prone skin to reduce redness and sensitivity.",
+      "ingredients": ["Azelaic Acid", "Centella Asiatica", "Green Tea", "Allantoin"],
+      "benefits": [
+        "Reduces redness and flushing",
+        "Calms inflammation",
+        "Strengthens capillaries",
+        "Soothes irritation"
+      ],
+      "skinType": ["Sensitive", "Rosacea-Prone"],
+      "size": "30ml",
+      "rating": 4.7,
+      "reviews": 98
+    }
+  ],
+  "skinConcerns": [
+    {
+      "name": "Acne & Breakouts",
+      "description": "Target stubborn acne and prevent future breakouts",
+      "recommendedProducts": [1, 6]
+    },
+    {
+      "name": "Aging & Wrinkles",
+      "description": "Combat signs of aging and restore youthful appearance",
+      "recommendedProducts": [2, 7]
+    },
+    {
+      "name": "Hyperpigmentation",
+      "description": "Even out skin tone and fade dark spots",
+      "recommendedProducts": [3, 2]
+    },
+    {
+      "name": "Dryness & Dehydration",
+      "description": "Restore moisture and strengthen skin barrier",
+      "recommendedProducts": [5, 4]
+    },
+    {
+      "name": "Sensitivity & Redness",
+      "description": "Calm and soothe reactive, sensitive skin",
+      "recommendedProducts": [4, 8]
+    }
+  ],
+  "usageTips": [
+    "Apply treatments to clean, dry skin",
+    "Start with once daily application and increase frequency as tolerated",
+    "Always follow with sunscreen during daytime use",
+    "Patch test new products before full application",
+    "Consistent use yields best results"
+  ]
+}

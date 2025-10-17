@@ -1,0 +1,274 @@
+{
+  "category": "Special Products",
+  "description": "Discover our exclusive, limited edition, and award-winning skincare treasures that deliver extraordinary results.",
+  "featuredProducts": [1, 2, 3],
+  "products": [
+    {
+      "id": 1,
+      "name": "Diamond Illumination Serum",
+      "price": "$120.00",
+      "originalPrice": "$150.00",
+      "image": "https://i5.walmartimages.com/seo/Alfaparf-Semi-Di-Lino-Diamond-Cristalli-Liquidi-Illuminating-Serum-1-69-fl-oz_4134ebfb-ed40-4b63-b169-0ca4a6d99dc3_3.61424e36aa57cd57be2b7fd8fc9f5f99.jpeg",
+      "images": [
+        "https://i5.walmartimages.com/seo/Alfaparf-Semi-Di-Lino-Diamond-Cristalli-Liquidi-Illuminating-Serum-1-69-fl-oz_4134ebfb-ed40-4b63-b169-0ca4a6d99dc3_3.61424e36aa57cd57be2b7fd8fc9f5f99.jpeg", "https://i5.walmartimages.com/seo/Semi-Di-Lino-Diamond-Cristalli-Liquidi-Illuminating-Serum-by-for-Unisex-1-69-oz-Serum_8268be49-d5b2-457a-9c1d-69b4ace0500f_1.a831b739f19bfb76a556b3a6aba95f4f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+      ],
+      "category": "Limited Edition",
+      "specialType": "limited",
+      "description": "Luxurious serum infused with diamond dust and rare botanicals for ultimate radiance.",
+      "ingredients": ["Diamond Dust", "24K Gold", "Caviar Extract", "Orchid Stem Cells"],
+      "benefits": [
+        "Instant luminosity boost",
+        "Reduces appearance of fine lines",
+        "Improves skin elasticity",
+        "Provides 24-hour hydration"
+      ],
+      "skinType": ["All Skin Types", "Mature", "Dull"],
+      "size": "30ml",
+      "rating": 4.9,
+      "reviews": 89,
+      "isLimited": true,
+      "limitedStock": 15,
+      "countdownDate": "2024-12-31T23:59:59",
+      "badge": "Limited Edition"
+    },
+    {
+      "id": 2,
+      "name": "24K Gold Facial Elixir",
+      "price": "$95.00",
+      "originalPrice": "$120.00",
+      "image": "https://hollywoodbrowzer.com/cdn/shop/products/24k-royal-gold-facial-elixir-2.jpg?v=1758902060&width=1200",
+      "images": [
+        "https://hollywoodbrowzer.com/cdn/shop/products/24k-royal-gold-facial-elixir-2.jpg?v=1758902060&width=1200",
+        "https://www.rasluxuryoils.com/cdn/shop/files/24kGoldbrighteningduoGel_Elixir.jpg?v=1699941727&width=200"
+      ],
+      "category": "Award Winning",
+      "specialType": "award",
+      "description": "Award-winning elixir with 24K gold particles for supreme anti-aging benefits.",
+      "ingredients": ["24K Gold Nanoparticles", "Hyaluronic Acid", "Platinum", "Pearl Extract"],
+      "benefits": [
+        "Visibly firms skin",
+        "Reduces wrinkles by 45%",
+        "Enhances natural glow",
+        "Award-winning formula"
+      ],
+      "skinType": ["Mature", "All Skin Types"],
+      "size": "50ml",
+      "rating": 5.0,
+      "reviews": 124,
+      "isLimited": false,
+      "badge": "Award Winner",
+      "awards": ["Best Anti-Aging 2024", "Beauty Excellence Award"]
+    },
+    {
+      "id": 3,
+      "name": "Moonlight Dream Cream",
+      "price": "$85.00",
+      "originalPrice": "$100.00",
+      "image": "https://fleurhive.com/cdn/shop/files/MoonlitDreamsfull.webp?v=1723816755",
+      "images": [
+        "https://i.ebayimg.com/images/g/UusAAOSw7D1mM8aM/s-l400.png",
+        "https://m.media-amazon.com/images/I/81PSrvtzE8L._UF350,350_QL80_.jpg"
+      ],
+      "category": "New Launch",
+      "specialType": "new",
+      "description": "Overnight repair cream with lunar-inspired ingredients for transformative results.",
+      "ingredients": ["Moonflower Extract", "Night-Blooming Cereus", "Silver Peptides", "Lunar Water"],
+      "benefits": [
+        "Overnight skin renewal",
+        "Boosts collagen production",
+        "Calms and soothes skin",
+        "Wake up to radiant skin"
+      ],
+      "skinType": ["All Skin Types", "Sensitive", "Dry"],
+      "size": "60ml",
+      "rating": 4.8,
+      "reviews": 67,
+      "isLimited": true,
+      "limitedStock": 25,
+      "countdownDate": "2024-11-30T23:59:59",
+      "badge": "New Launch"
+    },
+    {
+      "id": 4,
+      "name": "Royal Honey Collection Set",
+      "price": "$180.00",
+      "originalPrice": "$220.00",
+      "image": "https://i.redd.it/f0jq4i1urweb1.jpg",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStR_8ABBO1pOv4JS2xRC574oD0iO9cMz8ILQ&s"
+      ],
+      "category": "Gift Set",
+      "specialType": "gift",
+      "description": "Luxurious collection featuring rare Manuka honey and royal jelly from New Zealand.",
+      "ingredients": ["Manuka Honey UMF 20+", "Royal Jelly", "Propolis", "Bee Venom"],
+      "benefits": [
+        "Complete skincare routine",
+        "Antibacterial properties",
+        "Intense nourishment",
+        "Perfect gift set"
+      ],
+      "skinType": ["Dry", "Sensitive", "Mature"],
+      "size": "5-piece Set",
+      "rating": 4.7,
+      "reviews": 156,
+      "isLimited": false,
+      "badge": "Exclusive Set",
+      "includes": ["Cleanser", "Serum", "Cream", "Mask", "Balm"]
+    },
+    {
+      "id": 5,
+      "name": "Crystal Energy Mist",
+      "price": "$65.00",
+      "originalPrice": "$80.00",
+      "image": "https://m.media-amazon.com/images/I/71wKzWZg6OL._UF1000,1000_QL80_.jpg",
+      "images": [
+        "https://sheslostcontrol.co.uk/cdn/shop/products/SET_3_215_1200x1200.jpg?v=1665156068",
+        "https://homeofchiji.com/cdn/shop/products/BodyMist_PureLove_3_1200x1200.png?v=1623098253"
+      ],
+      "category": "Bestseller",
+      "specialType": "bestseller",
+      "description": "Energetic mist charged with crystal essences for instant hydration and glow.",
+      "ingredients": ["Rose Quartz Water", "Amethyst Extract", "Clear Quartz", "Himalayan Salt"],
+      "benefits": [
+        "Instant energy boost",
+        "Sets makeup perfectly",
+        "Calms the senses",
+        "Portable luxury"
+      ],
+      "skinType": ["All Skin Types"],
+      "size": "100ml",
+      "rating": 4.9,
+      "reviews": 203,
+      "isLimited": false,
+      "badge": "Bestseller"
+    },
+    {
+      "id": 6,
+      "name": "Black Orchid Elixir",
+      "price": "$150.00",
+      "originalPrice": "$180.00",
+      "image": "https://cdn.ecommercedns.uk/files/7/254947/6/51404336/f5dc2a27-6ada-445c-b31a-2b42a7157da2.jpg",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0853/1863/1748/files/Tom-Ford-Black-Orchid-PL.png"
+      ],
+      "category": "Rare Ingredients",
+      "specialType": "rare",
+      "description": "Ultra-rare black orchid extract combined with precious oils for supreme luxury.",
+      "ingredients": ["Black Orchid Extract", "Truffle Oil", "Diamond Powder", "Vanilla Planifolia"],
+      "benefits": [
+        "Rare ingredient blend",
+        "Deep hydration",
+        "Antioxidant protection",
+        "Luxurious experience"
+      ],
+      "skinType": ["Dry", "Very Dry", "Mature"],
+      "size": "25ml",
+      "rating": 4.8,
+      "reviews": 78,
+      "isLimited": true,
+      "limitedStock": 10,
+      "countdownDate": "2024-10-31T23:59:59",
+      "badge": "Rare Collection"
+    },
+    {
+      "id": 7,
+      "name": "Summer Glow Collection",
+      "price": "$135.00",
+      "originalPrice": "$160.00",
+      "image": "https://doctorsformula.co.uk/cdn/shop/products/ProbioticsAdvance_Summercollection-08.jpg?v=1655108181",
+      "images": [
+        "https://doctorsformula.co.uk/cdn/shop/products/ProbioticsAdvance_WEB_72dpi-02.jpg?v=1655108236&width=1445",
+        "https://doctorsformula.co.uk/cdn/shop/products/ProbioticsAdvance_WEB_72dpi-07.jpg?v=1655108236&width=1445"
+      ],
+      "category": "Seasonal",
+      "specialType": "seasonal",
+      "description": "Limited summer collection with tropical extracts for a perfect seasonal glow.",
+      "ingredients": ["Coconut Water", "Pineapple Enzyme", "Mango Butter", "Sea Minerals"],
+      "benefits": [
+        "Summer-ready skin",
+        "Natural glow enhancement",
+        "Lightweight hydration",
+        "Seasonal exclusivity"
+      ],
+      "skinType": ["All Skin Types", "Oily", "Combination"],
+      "size": "4-piece Set",
+      "rating": 4.6,
+      "reviews": 92,
+      "isLimited": true,
+      "limitedStock": 30,
+      "countdownDate": "2024-09-30T23:59:59",
+      "badge": "Seasonal"
+    },
+    {
+      "id": 8,
+      "name": "Platinum Night Mask",
+      "price": "$110.00",
+      "originalPrice": "$130.00",
+      "image": "https://faradays.store/wp-content/uploads/platnum-rare_0004_LAPRON-PRP-PLATINUM-RARE-HAUTE-REJUVENATION-MASK-VERTICAL.jpg",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9C59pTanTjGRA6Pu50_qCFYjlydBbIFOgvw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYjj3HoBT16cD8aXZLhkHLvUW-wfacV9facgUiTo5vERFPi1Bn2NVAxsvEIxuHTK5G1uk&usqp=CAU"
+      ],
+      "category": "Luxury",
+      "specialType": "luxury",
+      "description": "Overnight mask with platinum and rare earth minerals for ultimate skin transformation.",
+      "ingredients": ["Platinum", "Rare Earth Minerals", "Ceramides", "Peptides"],
+      "benefits": [
+        "Overnight transformation",
+        "Skin firming",
+        "Deep nourishment",
+        "Luxury experience"
+      ],
+      "skinType": ["All Skin Types", "Mature"],
+      "size": "75ml",
+      "rating": 4.9,
+      "reviews": 145,
+      "isLimited": false,
+      "badge": "Luxury"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Limited Edition",
+      "description": "Exclusive products available for limited time",
+      "icon": "⏳",
+      "count": 4,
+      "type": "limited"
+    },
+    {
+      "name": "Award Winning",
+      "description": "Recognized for excellence and innovation",
+      "icon": "🏆",
+      "count": 1,
+      "type": "award"
+    },
+    {
+      "name": "New Launches",
+      "description": "Fresh arrivals and innovative formulas",
+      "icon": "🆕",
+      "count": 1,
+      "type": "new"
+    },
+    {
+      "name": "Bestsellers",
+      "description": "Customer favorites and top-rated",
+      "icon": "⭐",
+      "count": 1,
+      "type": "bestseller"
+    },
+    {
+      "name": "Gift Sets",
+      "description": "Perfect curated collections for gifting",
+      "icon": "🎁",
+      "count": 1,
+      "type": "gift"
+    },
+    {
+      "name": "Luxury",
+      "description": "Ultra-premium ingredients and experiences",
+      "icon": "💎",
+      "count": 1,
+      "type": "luxury"
+    }
+  ]
+}

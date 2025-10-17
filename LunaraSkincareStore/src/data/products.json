@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hydrating Glow Serum",
+      "description": "Infused with lunar extracts for radiant, dewy skin that glows day and night",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&h=500&fit=crop",
+      "category": "Serum",
+      "price": "$49.99",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Lunar Renewal Face Mask",
+      "description": "Overnight renewal mask with moonflower extract for ultimate skin repair",
+      "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=600&fit=crop",
+      "category": "Mask",
+      "price": "$39.99",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Celestial Night Cream",
+      "description": "Luxurious overnight treatment that works with your skin's natural rhythm",
+      "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=400&h=450&fit=crop",
+      "category": "Cream",
+      "price": "$59.99",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Moonlight Clay Mask",
+      "description": "Purifying clay mask that detoxifies while maintaining skin's moisture balance",
+      "image": "https://moontouch.co/cdn/shop/files/Pink_clay_mask-moontouch.jpg?v=1723027067",
+      "category": "Mask",
+      "price": "$34.99",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Starlight Body Scrub",
+      "description": "Gentle exfoliating scrub with fine pearl particles for silky smooth skin",
+      "image": "https://m.media-amazon.com/images/I/71F0jnXptlL._UF350,350_QL80_.jpg",
+      "category": "Scrub",
+      "price": "$29.99",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "Radiant Day Cream",
+      "description": "SPF-infused daily moisturizer that protects while providing luminous hydration",
+      "image": "https://i5.walmartimages.com/asr/9430993f-9d6c-44cc-893c-8cad5bbf1dfd.01e899634e5800dab3e8bc00a9db97c1.jpeg",
+      "category": "Cream",
+      "price": "$44.99",
+      "featured": true
+    },
+    {
+      "id": 13,
+      "name": "Skin Scrubbing Gel",
+      "description": "SPF-infused daily moisturizer that protects while providing luminous hydration",
+      "image": "https://dr.rashel.in/cdn/shop/products/Ice-blue-2_1000x.jpg?v=1657611045",
+      "category": "Cream",
+      "price": "$44.99",
+      "featured": true
+    },
+
+    {
+      "id": 12,
+      "name": "Celestial Body Lotion",
+      "description": "Silky body lotion with shea butter for long-lasting hydration",
+      "image": "https://springandsummer.lk/cdn/shop/files/SkinbyCelestialWildBerries_SheaButterBodyLotion_200ML_1708x.jpg?v=1736154758",
+      "category": "Lotion",
+      "price": "$36.99",
+      "featured": false
+    }
+  ],
+  "brandInfo": {
+    "name": "Lunara Cosmetic",
+    "tagline": "Let your skin glow as gently as the moonlight — pure, calm, and timeless.",
+    "description": "Premium skincare inspired by the gentle beauty of moonlight. Our products are crafted with natural ingredients and advanced science to bring out your skin's natural radiance.",
+    "copyright": "© 2025 Lunara Cosmetic Store. All rights reserved.",
+    "socialLinks": {
+      "instagram": "https://instagram.com/lunaracosmetic",
+      "facebook": "https://facebook.com/lunaracosmetic",
+      "pinterest": "https://pinterest.com/lunaracosmetic"
+    }
+  },
+  "categories": [
+    "Serum",
+    "Mask",
+    "Cream",
+    "Scrub",
+    "Toner",
+    "Oil",
+    "Lip Care",
+    "Mist",
+    "Lotion"
+  ]
+}

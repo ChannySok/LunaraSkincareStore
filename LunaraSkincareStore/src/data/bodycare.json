@@ -1,0 +1,204 @@
+{
+  "category": "Body Care",
+  "description": "Indulge in our luxurious body care collection designed to nourish, hydrate, and rejuvenate your skin from head to toe.",
+  "products": [
+    {
+      "id": 1,
+      "name": "Hydrating Body Lotion",
+      "price": "$28.00",
+      "originalPrice": "$35.00",
+      "image": "https://www.sensatia.com/static/597709fb8e428e904e2854c20f369863/40129/1661936021113-Hydrating-Body-Lotion-500ml-1920px.jpg",
+      "category": "Lotion",
+      "description": "Deeply moisturizing lotion with shea butter and coconut oil for 24-hour hydration.",
+      "ingredients": ["Shea Butter", "Coconut Oil", "Jojoba Oil", "Vitamin E"],
+      "benefits": [
+        "24-hour hydration",
+        "Improves skin elasticity",
+        "Soothes dry patches",
+        "Non-greasy formula"
+      ],
+      "skinType": ["Dry", "Normal", "Sensitive"],
+      "size": "400ml",
+      "rating": 4.7,
+      "reviews": 203
+    },
+    {
+      "id": 2,
+      "name": "Exfoliating Body Scrub",
+      "price": "$32.00",
+      "originalPrice": "$40.00",
+      "image": "https://www.mumubath.com/cdn/shop/files/honeysucklescrub2.jpg?v=1719864779&width=2143",
+      "category": "Scrub",
+      "description": "Gentle exfoliating scrub with sugar crystals and essential oils for smooth, glowing skin.",
+      "ingredients": ["Brown Sugar", "Coconut Oil", "Sweet Almond Oil", "Essential Oils"],
+      "benefits": [
+        "Removes dead skin cells",
+        "Improves skin texture",
+        "Stimulates circulation",
+        "Leaves skin silky smooth"
+      ],
+      "skinType": ["All Skin Types"],
+      "size": "300g",
+      "rating": 4.8,
+      "reviews": 156
+    },
+    {
+      "id": 3,
+      "name": "Nourishing Body Oil",
+      "price": "$38.00",
+      "originalPrice": "$45.00",
+      "image": "https://hokmakeup.com/cdn/shop/files/Artboard5_ca899cd6-6448-4a1e-ad2f-e7acb83d6338.jpg?v=1757404144",
+      "category": "Oil",
+      "description": "Luxurious dry oil that absorbs quickly while providing intense nourishment.",
+      "ingredients": ["Argan Oil", "Jojoba Oil", "Rosehip Oil", "Vitamin E"],
+      "benefits": [
+        "Fast absorbing",
+        "Rich in antioxidants",
+        "Improves skin tone",
+        "Leaves radiant glow"
+      ],
+      "skinType": ["Dry", "Mature", "All Skin Types"],
+      "size": "200ml",
+      "rating": 4.9,
+      "reviews": 178
+    },
+    {
+      "id": 4,
+      "name": "Whipped Body Butter",
+      "price": "$35.00",
+      "originalPrice": "$42.00",
+      "image": "https://cdn.shopify.com/s/files/1/0012/0605/9079/files/Navitas_Recipe_Whipped_Cacao_Body_Butter_WEB3.jpg?v=1729013477",
+      "category": "Butter",
+      "description": "Ultra-rich whipped butter that melts into skin for deep conditioning.",
+      "ingredients": ["Shea Butter", "Cocoa Butter", "Mango Butter", "Vitamin E"],
+      "benefits": [
+        "Intense moisture",
+        "Repairs dry skin",
+        "Long-lasting protection",
+        "Luxurious texture"
+      ],
+      "skinType": ["Very Dry", "Sensitive", "Mature"],
+      "size": "250ml",
+      "rating": 4.6,
+      "reviews": 142
+    },
+    {
+      "id": 5,
+      "name": "Refreshing Shower Gel",
+      "price": "$22.00",
+      "originalPrice": "$28.00",
+      "image": "https://i5.walmartimages.com/asr/e33f4921-7e6c-4598-b956-f0bb6662d295.34ba03bb6b1900665172da4e29bf964a.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "category": "Shower Gel",
+      "description": "Gentle cleansing gel with natural extracts that won't strip skin's moisture.",
+      "ingredients": ["Aloe Vera", "Chamomile", "Green Tea", "Natural Surfactants"],
+      "benefits": [
+        "Gentle cleansing",
+        "Maintains skin pH",
+        "Refreshing scent",
+        "No harsh chemicals"
+      ],
+      "skinType": ["All Skin Types", "Sensitive"],
+      "size": "500ml",
+      "rating": 4.5,
+      "reviews": 189
+    },
+    {
+      "id": 6,
+      "name": "Soothing Body Mist",
+      "price": "$25.00",
+      "originalPrice": "$30.00",
+      "image": "https://m.media-amazon.com/images/I/61SC2itPRRL._UF1000,1000_QL80_.jpg",
+      "category": "Body Mist",
+      "description": "Lightweight hydrating mist for instant refreshment throughout the day.",
+      "ingredients": ["Rose Water", "Hyaluronic Acid", "Lavender", "Glycerin"],
+      "benefits": [
+        "Instant hydration",
+        "Calming scent",
+        "Sets makeup",
+        "Portable care"
+      ],
+      "skinType": ["All Skin Types"],
+      "size": "150ml",
+      "rating": 4.4,
+      "reviews": 134
+    },
+    {
+      "id": 7,
+      "name": "Firming Body Serum",
+      "price": "$45.00",
+      "originalPrice": "$55.00",
+      "image": "https://koparibeauty.com/cdn/shop/files/SERUM__2.png?v=1711562311&width=500",
+      "category": "Serum",
+      "description": "Advanced firming serum with natural ingredients to improve skin elasticity.",
+      "ingredients": ["Caffeine", "Gotu Kola", "Hyaluronic Acid", "Peptides"],
+      "benefits": [
+        "Improves firmness",
+        "Reduces appearance of cellulite",
+        "Boosts circulation",
+        "Smooths skin texture"
+      ],
+      "skinType": ["All Skin Types", "Mature"],
+      "size": "150ml",
+      "rating": 4.7,
+      "reviews": 98
+    },
+    {
+      "id": 8,
+      "name": "Overnight Repair Cream",
+      "price": "$42.00",
+      "originalPrice": "$50.00",
+      "image": "https://www.tatcha.co.uk/cdn/shop/files/IndigoOvernightRepair-FS-4-Ingredients_2048x.jpg?v=1754384946",
+      "category": "Overnight Care",
+      "description": "Intensive overnight treatment that works while you sleep to repair and renew.",
+      "ingredients": ["Ceramides", "Niacinamide", "Squalane", "Overnight Complex"],
+      "benefits": [
+        "Overnight repair",
+        "Strengthens skin barrier",
+        "Reduces dryness",
+        "Wake up to softer skin"
+      ],
+      "skinType": ["Dry", "Very Dry", "Mature"],
+      "size": "200ml",
+      "rating": 4.8,
+      "reviews": 167
+    }
+  ],
+  "categories": [
+    {
+      "name": "Body Lotions",
+      "description": "Daily hydration for soft, supple skin",
+      "icon": "💧",
+      "productCount": 2
+    },
+    {
+      "name": "Body Scrubs",
+      "description": "Exfoliate and reveal smoother skin",
+      "icon": "✨",
+      "productCount": 1
+    },
+    {
+      "name": "Body Oils",
+      "description": "Nourishing oils for radiant glow",
+      "icon": "🛢️",
+      "productCount": 1
+    },
+    {
+      "name": "Body Butters",
+      "description": "Rich creams for intense moisture",
+      "icon": "🧈",
+      "productCount": 1
+    },
+    {
+      "name": "Shower Gels",
+      "description": "Gentle cleansers for daily use",
+      "icon": "🚿",
+      "productCount": 1
+    },
+    {
+      "name": "Body Mists",
+      "description": "Quick refreshment on the go",
+      "icon": "🌫️",
+      "productCount": 1
+    }
+  ]
+}
