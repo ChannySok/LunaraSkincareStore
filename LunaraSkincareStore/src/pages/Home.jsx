@@ -14,7 +14,6 @@ const Home = () => {
 
     const loadData = async () => {
       try {
-        // Simulate network delay
         await new Promise((resolve) => setTimeout(resolve, 1000));
 
         setProducts(jsonData.products);
