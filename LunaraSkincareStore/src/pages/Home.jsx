@@ -12,7 +12,6 @@ const Home = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
 
-    // API call with timeout
     const loadData = async () => {
       try {
         // Simulate network delay
@@ -30,7 +29,7 @@ const Home = () => {
     loadData();
   }, []);
 
-  // Handle scroll to section when URL hash changes
+  //scroll to section when URL hash changes
   useEffect(() => {
     const handleHashChange = () => {
       const hash = window.location.hash;
