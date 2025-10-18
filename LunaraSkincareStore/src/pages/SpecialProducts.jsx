@@ -69,11 +69,11 @@ const SpecialProducts = () => {
     return () => clearInterval(timer);
   }, []);
 
-  // Get unique categories for filters
+  //categories filters
   const categories = ['all', ...new Set(specialProductsData.products.map(p => p.category))];
   const specialTypes = ['all', ...new Set(specialProductsData.products.map(p => p.specialType))];
 
-  // Filter products based on selected filters
+  //selected filters
   const filteredProducts = specialProductsData.products.filter(product => {
     const categoryMatch = filters.category === 'all' || product.category === filters.category;
     const typeMatch = filters.specialType === 'all' || product.specialType === filters.specialType;
