@@ -28,7 +28,7 @@ const CustomerInfo = () => {
       items: ["Rose Quartz Facial Serum", "Hyaluronic Acid Moisturizer"],
       total: "$125.00",
       status: "Delivered",
-      checkoutDate: "2024-01-14"
+      checkoutDate: "2025-01-14"
     },
     {
       id: "ORD-002",
@@ -36,7 +36,7 @@ const CustomerInfo = () => {
       items: ["Vitamin C Brightening Cream", "AHA/BHA Exfoliating Toner"],
       total: "$89.50",
       status: "Delivered",
-      checkoutDate: "2024-01-07"
+      checkoutDate: "2025-01-07"
     },
     {
       id: "ORD-003",
@@ -44,7 +44,7 @@ const CustomerInfo = () => {
       items: ["Ceramide Repair Cream", "Green Tea Cleanser", "Sunscreen SPF 50"],
       total: "$156.75",
       status: "Delivered",
-      checkoutDate: "2024-01-01"
+      checkoutDate: "2025-01-01"
     },
     {
       id: "ORD-004",
@@ -52,7 +52,7 @@ const CustomerInfo = () => {
       items: ["Retinol Night Serum", "Peptide Eye Cream"],
       total: "$112.25",
       status: "Delivered",
-      checkoutDate: "2023-12-19"
+      checkoutDate: "2025-12-19"
     },
     {
       id: "ORD-005",
@@ -60,7 +60,7 @@ const CustomerInfo = () => {
       items: ["Charcoal Detox Mask", "Aloe Vera Gel", "Face Massager"],
       total: "$78.90",
       status: "Delivered",
-      checkoutDate: "2023-12-09"
+      checkoutDate: "2025-12-09"
     }
   ];
 
